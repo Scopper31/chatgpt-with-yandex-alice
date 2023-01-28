@@ -5,7 +5,7 @@ import os
 import os
 import openai
 
-key = "your chat gpt api"
+key = "your chat gpt api key"
 openai.api_key = key
 
 
